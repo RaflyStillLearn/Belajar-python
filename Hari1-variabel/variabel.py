@@ -12,4 +12,9 @@ Hari ini saya belajar dasar-dasar variabel di Python.
 nama = "Rafly"
 umur = 17
 hobi = "Baca buku"
-print ("Halo nama saya", nama, "umur saya", umur, "tahun", "hobi saya", hobi)
+tinggi = 165,5
+is_pelajar = True
+print("Halo, nama saya", nama)
+print("Umur saya", umur, "tahun")
+print("Tinggi badan saya", tinggi, "cm")
+print("Apakah saya pelajar?", is_pelajar)
