@@ -3,10 +3,9 @@
 Hari ini saya mempelajari dasar-dasar operator aritmatika di bahasa pemrograman python.
 
 ## Materi
-- Mengerti cara membaca operator aritmatika di pyhton.
-- Mengetahui fungsi-fungsi dari tiap operator.
+- Mengerti cara membaca dan Mengetahui fungsi-fungsi dari tiap operator (+, -, *, /, //, %, **).
 - Menerapkan tiap-tiap operator aritmatika dalam sebuah pemrograman.
-
+  
 ## Contoh Kode
 '''Python
 x = 7
